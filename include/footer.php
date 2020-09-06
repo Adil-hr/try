@@ -1,0 +1,40 @@
+<footer>
+    <div>
+        <div>
+            <ul>
+                <li>L'association
+                    <ul>
+                        <li>Contact</li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div>
+            <ul>
+                <li>Activités
+                    <ul>
+                        <li><a>Contact</a></li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div>
+            <ul>
+                <li>L'association
+                    <ul>
+                        <li>Contact</li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div>
+            copyright Deis
+        </div>
+    </div>
+</footer>

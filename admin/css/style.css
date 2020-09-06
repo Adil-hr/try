@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+
+}
+
+p {
+    font-size: 1.2em;
+}
+
+.navHeader {
+    background-color: #ffb164;
+}
+
+header {
+    width: 100%;
+}
+
+.carousel-inner img {
+    width: 200px;
+    height: 400px;
+}
+
+
+/* body {
+    font-family: Lato;
+  } */
+  /* navbarlat */
+  .side-menu {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .menu {
+    z-index: 200 ;
+    height: 100%;
+    width: 200px;
+    background: rgb(255, 177, 100,100);
+    position: fixed;
+    top: 0;
+    left: 0;
+    transition: .4s ease left;
+  }
+  
+  .overlay {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,.12);
+    transition:backround .4s ease ;
+  }
+  
+  
+  /* closed style */
+  .side-menu.closed {
+    pointer-events: none;
+  }
+  .side-menu.closed > .overlay {
+    background: rgba(0,0,0,0);
+  }
+  .side-menu.closed > .menu {
+    left: -200px;
+  }
+
